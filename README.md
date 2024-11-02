@@ -4,4 +4,4 @@ Se adjunta la visualización de la técnica de Sunburst chart y la aplicación d
 
 **Página web consultadas**
 
-[https://www.theinformationlab.es/blog/sunburst-chart-en-tableau/](https://datavizproject.com/data-type/sunburst-diagram/)
+https://datavizproject.com/data-type/sunburst-diagram/
