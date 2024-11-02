@@ -7,3 +7,5 @@ Se adjunta la visualización de la técnica de Sunburst chart y la aplicación d
 https://datavizproject.com/data-type/sunburst-diagram/
 
 https://www.fusioncharts.com/charts/sunburst-charts
+
+https://www.youtube.com/watch?v=-zHdo8RTyKc
